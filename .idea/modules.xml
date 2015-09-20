@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms4th.iml" filepath="$PROJECT_DIR$/Algorithms4th.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms4th-chapter01/Algorithms4th-chapter01.iml" filepath="$PROJECT_DIR$/Algorithms4th-chapter01/Algorithms4th-chapter01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms4th-chapter02/Algorithms4th-chapter02.iml" filepath="$PROJECT_DIR$/Algorithms4th-chapter02/Algorithms4th-chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms4th-chapter03/Algorithms4th-chapter03.iml" filepath="$PROJECT_DIR$/Algorithms4th-chapter03/Algorithms4th-chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms4th-chapter04/Algorithms4th-chapter04.iml" filepath="$PROJECT_DIR$/Algorithms4th-chapter04/Algorithms4th-chapter04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms4th-chapter05/Algorithms4th-chapter05.iml" filepath="$PROJECT_DIR$/Algorithms4th-chapter05/Algorithms4th-chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms4th-chapter06/Algorithms4th-chapter06.iml" filepath="$PROJECT_DIR$/Algorithms4th-chapter06/Algorithms4th-chapter06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms4th-util/Algorithms4th-util.iml" filepath="$PROJECT_DIR$/Algorithms4th-util/Algorithms4th-util.iml" />
+    </modules>
+  </component>
+</project>
