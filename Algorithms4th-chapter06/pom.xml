@@ -9,9 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Algorithms4th-chapter02</artifactId>
-    <name>算法 第2章 </name>
-    <description>排序 算法 </description>
+    <artifactId>Algorithms4th-chapter06</artifactId>
+    <name>算法 第6章</name>
+    <description>加密 解密 </description>
 
     <dependencies>
         <!-- 工具依赖包  -->
@@ -29,6 +29,4 @@
         </dependency>
 
     </dependencies>
-
-
 </project>
