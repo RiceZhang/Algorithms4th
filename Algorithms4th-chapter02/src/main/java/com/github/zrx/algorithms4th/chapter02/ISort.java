@@ -8,7 +8,7 @@ public interface ISort {
      void  sort(Comparable[] a);
      boolean less(Comparable v, Comparable w);
      void exch(Comparable[] a , int i , int j);
-     boolean isSort(Comparable  a[]);
+     boolean isSorted(Comparable  a[]);
      void show(Comparable a[]);
 
 

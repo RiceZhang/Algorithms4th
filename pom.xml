@@ -21,7 +21,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <junit.vrsion>4.12</junit.vrsion>
+    <junit.vrsion>4.8.2</junit.vrsion>
   </properties>
 
   <dependencyManagement>
